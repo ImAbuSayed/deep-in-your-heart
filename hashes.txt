@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deep In Your Heart
+
+This log tracks the cryptographic history and versioning for the song **Deep In Your Heart** (deep-in-your-heart).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T16:23:51.402619 | `v1` | `13a3aa649c92076a3c5075d26f71761bf93b8a30143cb17f22658aa713ee7f16` | `c4be0709f35f5a8f0687abeaa6b68af04031ecbefe48d8f2b99f460a5461415f` | `2026-05-26_deep-in-your-heart-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
